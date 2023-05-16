@@ -16,7 +16,7 @@ def phonebook():
             else:
                 directory[name] = [num]
             print("ok!")
-            print(directory)
+            #print(directory)
 
         elif command == 1:
             name = input("name: ")
