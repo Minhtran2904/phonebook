@@ -9,4 +9,4 @@ Functionalities: while True, program keeps prompting for user's request:
 Added the ability to store more than 1 phone number to the same name. As I print out the directory = {} I will see that 'name' test1 has 2 numbers attached.
 Presented as list inside dictionary pair. In this case, key 'test1' has a value paired of a list of ['001', '009']
 
-![image](https://github.com/Minhtran2904/phonebook/assets/97359403/e6afbef7-8cb0-45e5-bf24-919b1d3404e0)
+![image](https://github.com/Minhtran2904/phonebook/assets/97359403/0c62bb3d-2754-4368-aad8-1345cab0f2fe)
